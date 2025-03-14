@@ -1,6 +1,6 @@
 # WiDS 2025 Datathon Repository
 
-This repository contains all the code used for the `**Women in Data Science (WiDS) 2025 Datathon**`.
+This repository contains all the code used for the `Women in Data Science (WiDS) 2025 Datathon`.
 
 ## 🛠️ Tools & Libraries
 
