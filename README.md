@@ -35,9 +35,9 @@ Final model performance and evaluation metrics will be documented here.
 ## 🤝 Team A.I.tistii
 
 - [Gorea Sabin-Gabriel](https://github.com/gsg211)
-- [Dobri Ștefania-Eleonora](https://github.com/teammate1)
-- [Cristea Iulia-Maria](https://github.com/teammate2)
-- [Lionte Eduard-Iulian](https://github.com/teammate2)
+- [Dobri Ștefania-Eleonora](https://github.com/stefania-eleonora)
+- [Cristea Iulia-Maria](https://github.com/iuliamariacristea)
+- [Lionte Eduard-Iulian](https://github.com/LEduard15)
 
 
 ---
