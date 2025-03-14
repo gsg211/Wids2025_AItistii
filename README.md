@@ -39,8 +39,5 @@ Final model performance and evaluation metrics will be documented here.
 - [Cristea Iulia-Maria](https://github.com/teammate2)
 - [Lionte Eduard-Iulian](https://github.com/teammate2)
 
-## 📜 License
-
-MIT License
 
 ---
